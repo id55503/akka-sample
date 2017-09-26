@@ -11,7 +11,6 @@ public class Test {
         change(string);
         System.out.println(string[0]);
         System.out.println(Math.log(10)/Math.log(2));
-
     }
 
 }
